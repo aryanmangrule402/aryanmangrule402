@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aryan+Mangrule;A+Passionate+Software+Developer+from+India" alt="Typing Animation" />
+</p>
+
 <h1 align="center">  
   <span style="color:#4CAF50; font-weight:bold;">Hi 👋, I'm Aryan Mangrule</span>  
 </h1>  
