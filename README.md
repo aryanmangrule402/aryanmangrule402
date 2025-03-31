@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aryan-mangrule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-mangrule" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryan162002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan162002" height="30" width="40" /></a>
-    <a href="mailto:aryanmangrule@gmail.com">
+    <a href="aryanmangrule@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" height="30" width="40"/>
   </a>
 </p>
