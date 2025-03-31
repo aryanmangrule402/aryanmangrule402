@@ -1,6 +1,31 @@
-![Header](https://camo.githubusercontent.com/68f90d0a1b6fe59a2723105e4b6c669aeb3dbb2bcff290aedee3c82171fe9c1b/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334453132415145724a7359617944757456672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635313833353036343236303f653d3231343734383336343726763d6265746126743d5044374e47776b32566833784f4139677866387555734c7341742d4276616b31486d3372756f4753787559)
-<h1 align="center">Hi 👋, I'm Aryan Mangrule</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+
+<h1 align="center" style="color: #4CAF50; font-size: 2.8rem; font-weight: bold; animation: fadeIn 2s ease-in-out infinite alternate;">
+  Hi 👋, I'm Aryan Mangrule
+</h1>
+<h3 align="center" style="color: #FFD700; font-size: 1.5rem; font-weight: 600; animation: slideIn 3s ease-in-out infinite alternate;">
+  A passionate Software Developer from India
+</h3>
+
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0.6;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(-10px);
+    }
+    to {
+      transform: translateX(10px);
+    }
+  }
+</style>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmangrule402&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmangrule402" /> </p>
