@@ -1,6 +1,6 @@
 <!-- Animated Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aryan+Mangrule;Software+Developer+|+MERN+Stack+Enthusiast;Passionate+about+Problem+Solving+and+Open+Source" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aryan+Mangrule;MERN+Stack+Enthusiast;Passionate+about+Problem+Solving+and+Open+Source" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views Counter -->
