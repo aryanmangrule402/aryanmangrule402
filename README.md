@@ -41,7 +41,7 @@
 
 ### 🚀 **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,python,postgres,flutter,docker,redux,git,oracle" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,cpp,python,postgres,flutter,docker,redux,git" />
 </p>
 
 ---
